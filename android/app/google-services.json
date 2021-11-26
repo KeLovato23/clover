@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187141087668",
+    "project_id": "clover-81dac",
+    "storage_bucket": "clover-81dac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187141087668:android:fa1cfebfd3833e58f812e1",
+        "android_client_info": {
+          "package_name": "com.lovato.clover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187141087668-ktuqqt8dg3hbhi47s8cco0bet2ed4cua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClMFs7IpwVAMaOxGGPyn3LXCyHq5scZGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187141087668-ktuqqt8dg3hbhi47s8cco0bet2ed4cua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
